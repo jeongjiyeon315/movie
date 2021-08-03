@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jeongjiyeon315/movie/static/css/main.07731fa6.chunk.css",
+    "main.js": "/jeongjiyeon315/movie/static/js/main.c3ac9063.chunk.js",
+    "main.js.map": "/jeongjiyeon315/movie/static/js/main.c3ac9063.chunk.js.map",
+    "runtime-main.js": "/jeongjiyeon315/movie/static/js/runtime-main.31f1d0f0.js",
+    "runtime-main.js.map": "/jeongjiyeon315/movie/static/js/runtime-main.31f1d0f0.js.map",
+    "static/js/2.86237484.chunk.js": "/jeongjiyeon315/movie/static/js/2.86237484.chunk.js",
+    "static/js/2.86237484.chunk.js.map": "/jeongjiyeon315/movie/static/js/2.86237484.chunk.js.map",
+    "index.html": "/jeongjiyeon315/movie/index.html",
+    "static/css/main.07731fa6.chunk.css.map": "/jeongjiyeon315/movie/static/css/main.07731fa6.chunk.css.map",
+    "static/js/2.86237484.chunk.js.LICENSE.txt": "/jeongjiyeon315/movie/static/js/2.86237484.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31f1d0f0.js",
+    "static/js/2.86237484.chunk.js",
+    "static/css/main.07731fa6.chunk.css",
+    "static/js/main.c3ac9063.chunk.js"
+  ]
+}
