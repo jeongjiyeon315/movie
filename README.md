@@ -1,3 +1,3 @@
 # movie
 
-React JS Fundamentals Coures(2019 Update!)
+React JS Fundamentals Coures
